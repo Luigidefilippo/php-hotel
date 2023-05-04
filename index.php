@@ -73,6 +73,7 @@ $hotels = [
                         </th>
                         <td>
                             <?php echo $hotel["description"]?>
+                            km
                         </td>
                         <td>
                             <?php echo $hotel["parking"]?>
